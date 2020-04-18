@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # Common Word Checker
 
 A script that checks if a Word document only contains the 1000 most common English words. The words are courtesy of [Education First](https://www.ef.com/wwen/english-resources/english-vocabulary/top-1000-words/).
